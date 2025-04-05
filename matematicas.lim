@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>FF00FF</corbanda>
+        <cornavega>800080</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>TEOREMA DE PITÁGORAS </titulo>
+        <subtitulo>Lic. Yuleinis Sánchez </subtitulo>
+        <logo>im.png</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">clase.png</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>9</tipo>
+              <texto><![CDATA[Visualiza el video para reforzar conceptos y practicar los ejercicios. 
+]]></texto>
+              <liga posx="225" posy="300" ir="https://www.youtube.com/watch?v=eTEBvBIz8Ok ">Teorema de pitágoras</liga>
+        </paxina>
+        <paxina id="3" >
+              <tipo>24</tipo>
+              <cabeceira>Selecciona los triángulos rectángulos </cabeceira>
+              <etiqueta imaxe="h.png" texto="">1</etiqueta>
+              <etiqueta imaxe="b.png" texto="">0</etiqueta>
+              <etiqueta imaxe="u.png" texto="">0</etiqueta>
+              <etiqueta imaxe="d.png" texto="">0</etiqueta>
+              <etiqueta imaxe="c.png" texto="">1</etiqueta>
+              <etiqueta imaxe="g.png" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>1</tipo>
+              <texto>Cuáles son los lados a calcular en un triángulo rectángulo. </texto>
+              <resp texto="" valor="0">Hipotenusa, lado opuesto y dos catetos</resp>
+              <resp texto="" valor="1">Cateto a, cateto b y la hipotenusa c</resp>
+              <resp texto="" valor="0">Sus tres catetos</resp>
+              <resp texto="" valor="0">Cateto a, cateto b y la base. </resp>
+        </paxina>
+        <paxina id="5" >
+              <tipo>1</tipo>
+              <imaxe>images.png</imaxe>
+              <texto>En la siguiente imagen, ¿Qué se va a calcular? </texto>
+              <resp texto="" valor="0">La hipotenusa </resp>
+              <resp texto="" valor="0">Un lado </resp>
+              <resp texto="" valor="0">La base </resp>
+              <resp texto="" valor="1">Uno de los catetos </resp>
+        </paxina>
+        <paxina id="6" >
+              <tipo>38</tipo>
+              <imaxe>hk.png</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Century Gothic" size="14">Con base al video de práctica, aplica el teorema de pitágoras para hallar el valor de x. <br>
+<br>
+<br>
+</font><font color="#080000" face="Century" size="12">  <br>
+</font></p>
+]]></texto>
+              <resp>4</resp>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="7" >
+              <tipo>7</tipo>
+              <cabeceira>Clasifica cada ejercicio de acuerdo al lado que se quiere calcular. </cabeceira>
+              <caixa1>Hipotenusa. </caixa1>
+              <caixa2>Catetos</caixa2>
+              <mini caixa="1">ejemplo-hipotenusa.png</mini>
+              <mini caixa="2">ii.jpg</mini>
+              <mini caixa="1">y.png</mini>
+              <mini caixa="2">images.png</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="8" >
+              <tipo>1</tipo>
+              <texto>Cuáles son los lados a calcular en un triángulo rectángulo. </texto>
+              <resp texto="" valor="0">Hipotenusa, lado opuesto y dos catetos</resp>
+              <resp texto="" valor="1">Cateto a, cateto b y la hipotenusa c</resp>
+              <resp texto="" valor="0">Sus tres catetos</resp>
+              <resp texto="" valor="0">Cateto a, cateto b y la base. </resp>
+        </paxina>
+        <paxina id="9" >
+              <tipo>1</tipo>
+              <imaxe>images_(1).jpg</imaxe>
+              <texto>El valor de la hipotenusa es: </texto>
+              <resp texto="" valor="0">7 cm</resp>
+              <resp texto="" valor="0">5 m </resp>
+              <resp texto="" valor="1">5 cm </resp>
+              <resp texto="" valor="0">7 m </resp>
+        </paxina>
+    </libro>
+</lim>
