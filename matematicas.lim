@@ -76,12 +76,14 @@
         <paxina id="7" >
               <tipo>7</tipo>
               <cabeceira>Clasifica cada ejercicio de acuerdo al lado que se quiere calcular. </cabeceira>
-              <caixa1>Hipotenusa. </caixa1>
+              <caixa1>Hipotenusa</caixa1>
               <caixa2>Catetos</caixa2>
               <mini caixa="1">ejemplo-hipotenusa.png</mini>
               <mini caixa="2">ii.jpg</mini>
               <mini caixa="1">y.png</mini>
               <mini caixa="2">images.png</mini>
+              <mini caixa="2">hk.png</mini>
+              <mini caixa="1">hipo.png</mini>
               <cfondo>FFFFFF</cfondo>
               <cadro>1</cadro>
         </paxina>
